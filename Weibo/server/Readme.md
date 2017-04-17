@@ -1,11 +1,11 @@
-#用法：
+# 用法：
 
-#预备工作
+# 预备工作
 采用了python `Falsk`web框架，请预先安装
 
 安装方法：`pip install flask` or `easy_install flask`
 
-#部署
+# 部署
 
 1.部署Server文件夹中 `index.py`, `../local/weibo.py` 以及两个目录下的`__init__.py` 文件到服务器
 
