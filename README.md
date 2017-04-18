@@ -1,22 +1,22 @@
 Social-Auth-Simulator
 ===============
 
-###中文名：
+### 中文名：
 
 社交网络自动化认证
 
-###目标：
+### 目标：
 
 脱离浏览器，提供自动化授权和获取access_token的解决方案。
 
-###进展：
+### 进展：
 
 * 豆瓣开发中...
 *	支持腾讯微博（2013-05-31）
 *	支持Renren（2013-05-30）
 *	支持Weibo （2013-01-18）
 
-###演示:
+### 演示:
 
 App想要获取某个用户的授权，得到`access_token`，而后获取用户社交网络数据
 
@@ -38,7 +38,7 @@ print api.get_access_token()
 
 如何，是否够精简?
 
-###什么？你有些担心？！
+### 什么？你有些担心？！
 
 我想你一定有些担心，你的程序语言不是python，没有关系，我还提供了php/server端认证，只要你把php文件部署在server端，不论什么语言，构造query数据发送到服务器，自动化认证和授权就交给服务器吧，最终像获取网页数据一样得到`accesss_token`的`json`数据。
 
@@ -46,9 +46,9 @@ print api.get_access_token()
 
 ![](http://ww4.sinaimg.cn/mw690/610dc034jw1e8tbude577j20jt0ggdhn.jpg)
 
-###还在犹豫什么？投入使用吧！
+### 还在犹豫什么？投入使用吧！
 
-###关于我：
+### 关于我：
 我是个学生，酷爱开发，擅长Android、php、python、nodejs、web，如果您手头有适合我的实习机会，欢迎邮件联系我:  [daimajia#gmail.com](mailto:daimajia@gmail.com)
 
 *	[西北大学](http://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6_(%E4%B8%AD%E5%9B%BD)
